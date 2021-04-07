@@ -2,4 +2,4 @@ import { createContext } from "react";
 
 const ColorContext = createContext({ color: "black" });
 
-export default color;
+export default ColorContext;
